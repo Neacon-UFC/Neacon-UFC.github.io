@@ -1,0 +1,169 @@
+/************************************************************************/
+/* Body CSS */
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    font-size: 100;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/************************************************************************/
+/* Header CSS */
+header {
+    background-color: #FFFDD0;
+    color: #000;
+    padding: 10px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.5);
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.logo img {
+    padding: 10px;
+    margin-right: 10px;
+    height: 64px; /* Set the desired height for your logo */
+    vertical-align: middle; /* Align the logo vertically */
+}
+
+nav ul {
+    text-align: center;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 20px;
+    transition: color 0.2s; /* Add transition for smoother hover effect */
+}
+
+nav ul li a:hover {
+    color: #040488;
+}
+
+.dropbtn {
+    background-color: #FFFDD0;
+    color: #000;
+    padding: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    transition: color 0.2s; /* Add transition for smoother hover effect */
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    background-color: #fff;
+    text-align: start;
+    display: none;
+    position: absolute;
+    min-width: 320px;
+    border-radius: 5px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: lightblue;
+    color: #040488;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #FFFDD0;
+    color: #040488;
+}
+
+
+nav ul li.search input {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    padding: 10px;
+    margin-right: 0px;
+    border: none;
+    border-radius: 5px;
+}
+
+nav ul li.search button {
+    background-color: #f1f1f1;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+
+nav ul li.search button:hover {
+    background-color: black;
+    color: white;
+}
+
+/************************************************************************/
+/* Content CSS */
+
+.content {
+    background-color: #fff;
+    text-align: justify;
+    width: 80%;
+    margin: 5% 10% 5% 10%;
+    padding: 20px;
+    border: 5px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.5);
+}
+
+/************************************************************************/
+/* Footer CSS */
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+}
+
+/************************************************************************/
