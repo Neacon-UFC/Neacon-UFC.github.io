@@ -1,0 +1,26 @@
+.person-box {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.person-img img {
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    border-radius: 50%; /* Makes the image round */
+    margin-right: 20px; /* Adds some space between image and info */
+}
+
+.person-info {
+    flex-grow: 1; /* Allows the info to take up remaining space */
+}
+
+.person-info h2 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.person-info p {
+    font-size: 16px;
+    margin-bottom: 3px;
+}
