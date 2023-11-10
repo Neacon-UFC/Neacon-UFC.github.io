@@ -32,7 +32,7 @@ var language ={
 function getLanguage() {
     (localStorage.getItem('language') == null) ? setLanguage('en') : false;
     $.ajax({ 
-        url:  '../site/src/language/' +  localStorage.getItem('language') + '.json', 
+        url:  '../Naicon/src/language/' +  localStorage.getItem('language') + '.json', 
         dataType: 'json', async: false, dataType: 'json', 
         success: function (lang) { 
             language = lang 
