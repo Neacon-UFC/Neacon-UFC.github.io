@@ -8,6 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    background-color: #f9f9f9;
 }
 
 /************************************************************************/
@@ -153,15 +154,14 @@ nav ul li.search button:hover {
 /************************************************************************/
 /* Content CSS */
 
-.content {
+#content {
     background-color: #fff;
     text-align: justify;
     width: 80%;
     margin: 5% 10% 5% 10%;
     padding: 20px;
     border: 5px;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,.5);
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,.5);
 }
 
 /************************************************************************/

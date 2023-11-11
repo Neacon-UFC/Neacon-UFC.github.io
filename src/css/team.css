@@ -1,18 +1,39 @@
+#content {
+    display: flex;
+    flex-wrap: wrap; /* Allow flex items to wrap to the next line */
+    justify-content: space-evenly; /* Adjust as needed for spacing between boxes */
+    background-color: #fff;
+    text-align: justify;
+    width: 80%;
+    margin: 5% 10% 5% 10%;
+    padding: 20px;
+    border: 5px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.5);
+}
+
 .person-box {
     display: flex;
+    flex-direction: row;
     align-items: center;
-    margin-bottom: 20px;
+    justify-content: center;
+    margin: 20px;
+    width: 40%;
+    padding: 20px;
+    border: 2px;
+    border-radius: 5px;
+    box-shadow: 0 3px 6px 0 rgba(0,0,0,.5);
+    background-color: #FFFDD0;
 }
 
 .person-img img {
-    width: 100px; /* Adjust the width as needed */
-    height: 100px; /* Adjust the height as needed */
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the width as needed */
     border-radius: 50%; /* Makes the image round */
     margin-right: 20px; /* Adds some space between image and info */
 }
 
 .person-info {
-    flex-grow: 1; /* Allows the info to take up remaining space */
+    flex-grow: 0.4; /* Allows the info to take up remaining space */
 }
 
 .person-info h2 {
@@ -20,7 +41,22 @@
     margin-bottom: 5px;
 }
 
+.person-info h3 {
+    font-size: 18px;
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
 .person-info p {
     font-size: 16px;
     margin-bottom: 3px;
+}
+
+.person-info a {
+    vertical-align: middle;
+}
+
+.person-info a img {
+    width: 40px; /* Adjust the width of the LinkedIn logo */
+    height: auto; /* Automatically adjust height while maintaining aspect ratio */
 }

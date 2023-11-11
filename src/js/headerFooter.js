@@ -20,7 +20,6 @@ function setLanguage(lang) {
 
 // Function to add the html code of header and footer
 function addHeaderFooter(){
-    console.log(language)
     // Getting elements
     header = document.getElementById('header');
     footer = document.getElementById('footer');
