@@ -32,10 +32,20 @@
             "name": "Wilkley Bezerra Correia, Dr.",
             "domain": "Robótica, Teoria de Controle, Controle de Sistema Acionado por Motor, Controle Baseado em Dados",
             "level": "Professor",
-            "course": "Electrical Engineering",
+            "course": "Engenharia Elétrica",
             "email": "wilkley@dee.ufc.br",
-            "linkedin": "https://www.linkedin.com/in//",
-            "github": "https://www.github.com//"
+            "linkedin": "https://www.linkedin.com/in/wilkley-correia-3a630a164/",
+            "github": "#"
+        },
+        {
+            "img_name": "diego_madeira",
+            "name": "Diego de Sousa Madeira, Dr.",
+            "domain": "Robótica, Teoria de Controle, Controle de Sistema Acionado por Motor, Controle Baseado em Dados",
+            "level": "Professor",
+            "course": "Engenharia Elétrica",
+            "email": "diego@dee.ufc.br",
+            "linkedin": "#",
+            "github": "#"
         },
         {
             "img_name": "joel_kalil",
@@ -54,7 +64,7 @@
             "level": "Graduando",
             "course": "Engenharia Elétrica",
             "email": "emaildeauro@gmail.com",
-            "linkedin": "https://www.linkedin.com/in//",
+            "linkedin": "https://www.linkedin.com/in/auro-gabriel/",
             "github": "https://www.github.com//"
         },
         {
@@ -65,7 +75,7 @@
             "course": "Engenharia Elétrica",
             "email": "@gmail.com",
             "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
-            "github": ""
+            "github": "#"
         },
         {
             "img_name": "michael_hiarley",
@@ -75,7 +85,7 @@
             "course": "Engenharia Elétrica",
             "email": "@gmail.com",
             "linkedin": "https://www.linkedin.com/in/michael-hiarley",
-            "github": ""
+            "github": "#"
         },
         {
             "img_name": "julio_schneiders",

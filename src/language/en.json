@@ -34,8 +34,18 @@
             "level": "Professor",
             "course": "Electrical Engineering",
             "email": "wilkley@dee.ufc.br",
-            "linkedin": "",
-            "github": ""
+            "linkedin": "https://www.linkedin.com/in/wilkley-correia-3a630a164/",
+            "github": "#"
+        },
+        {
+            "img_name": "diego_madeira",
+            "name": "Diego de Sousa Madeira, Dr.",
+            "domain": "Robotics, Control Theory, Motor Driven Control, Data Based Control",
+            "level": "Professor",
+            "course": "Electrical Engineering",
+            "email": "diego@dee.ufc.br",
+            "linkedin": "#",
+            "github": "#"
         },
         {
             "img_name": "joel_kalil",
@@ -54,8 +64,8 @@
             "level": "Undergraduate",
             "course": "Electrical Engineering",
             "email": "emaildeauro@gmail.com",
-            "linkedin": "",
-            "github": ""
+            "linkedin": "https://www.linkedin.com/in/auro-gabriel/",
+            "github": "#"
         },
         {
             "img_name": "luiz_fernando",
@@ -65,7 +75,7 @@
             "course": "Electrical Engineering",
             "email": "emaildeauro@gmail.com",
             "linkedin": "https://www.linkedin.com/in/fernando-soares-24bb3824a/",
-            "github": ""
+            "github": "#"
         },
         {
             "img_name": "michael_hiarley",
@@ -75,7 +85,7 @@
             "course": "Electrical Engineering",
             "email": "emaildeauro@gmail.com",
             "linkedin": "https://www.linkedin.com/in/michael-hiarley",
-            "github": ""
+            "github": "#"
         },
         {
             "img_name": "julio_schneiders",
