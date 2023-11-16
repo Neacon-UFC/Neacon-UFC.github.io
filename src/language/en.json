@@ -160,6 +160,33 @@
             "linkedin": "https://www.linkedin.com/in/julio-schneiders-109a05296/",
             "github": "https://github.com/Schneidersnzz"
         }
-    ]
+    ],
 
+    "contact": {
+        "title": "Contact",
+        "last_update": "Last update on November 16th, 2023",
+        "mailing_address": {
+            "title": "Mailing Address",
+            "responsable": "Professor Wilkley Correia",
+            "place": "Bloco 732 - Pici",
+            "city": "Fortaleza - CE",
+            "cep": "60020-181"
+        },
+        "office_location": {
+            "title": "Office Location",
+            "laboratory": "LAMOTRIZ - Motor Systems Laboratory",
+            "map": "https://maps.app.goo.gl/g8GcfjWPJeDaQwibA",
+            "place": "Bloco 732 - Pici",
+            "city": "Fortaleza - CE",
+            "cep": "60020-181"
+        },
+        "office_phone": {
+            "title": "Office Phone",
+            "phone": "+55 (085) 9 8172-7419"
+        },
+        "email": {
+            "title": "Email",
+            "email": "lamotriz@outlook.com"
+        }
+    }
 }

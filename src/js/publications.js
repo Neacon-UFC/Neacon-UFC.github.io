@@ -1,5 +1,5 @@
 // Function to add the html code content for publications page
-function addHomeContent(){
+function addPublicationsContent(){
     // Getting elements
     content = document.getElementById('content');
 
@@ -51,4 +51,4 @@ function addHomeContent(){
 }
 
 
-addHomeContent();
+addPublicationsContent();

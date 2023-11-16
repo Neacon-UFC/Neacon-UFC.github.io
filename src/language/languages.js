@@ -97,7 +97,7 @@ var en = {
             "level": "Professor",
             "course": "Electrical Engineering",
             "email": "wilkley@dee.ufc.br",
-            "linkedin": "#",
+            "linkedin": "https://www.linkedin.com/in/wilkley-correia-3a630a164/",
             "github": "#"
         },
         {
@@ -127,7 +127,7 @@ var en = {
             "level": "Undergraduate",
             "course": "Electrical Engineering",
             "email": "emaildeauro@gmail.com",
-            "linkedin": "#",
+            "linkedin": "https://www.linkedin.com/in/auro-gabriel/",
             "github": "#"
         },
         {
@@ -160,7 +160,35 @@ var en = {
             "linkedin": "https://www.linkedin.com/in/julio-schneiders-109a05296/",
             "github": "https://github.com/Schneidersnzz"
         }
-    ]
+    ],
+
+    "contact": {
+        "title": "Contact",
+        "last_update": "Last update on November 16th, 2023",
+        "mailing_address": {
+            "title": "Mailing Address",
+            "responsable": "Professor Wilkley Correia",
+            "place": "Bloco 732 - Pici",
+            "city": "Fortaleza - CE",
+            "cep": "60020-181"
+        },
+        "office_location": {
+            "title": "Office Location",
+            "laboratory": "LAMOTRIZ - Motor Systems Laboratory",
+            "map": "https://maps.app.goo.gl/g8GcfjWPJeDaQwibA",
+            "place": "Bloco 732 - Pici",
+            "city": "Fortaleza - CE",
+            "cep": "60020-181"
+        },
+        "office_phone": {
+            "title": "Office Phone",
+            "phone": "+55 (085) 9 8172-7419"
+        },
+        "email": {
+            "title": "Email",
+            "email": "lamotriz@outlook.com"
+        }
+    }
 };
 
 var pt = {
@@ -192,63 +220,63 @@ var pt = {
     },
 
     "publications":{
-        "title": "Publications",
-        "subtitle": "Most recent and relevant publications",
+        "title": "Publicações",
+        "subtitle": "Publicações mais recentes e relevantes",
         "publications": [
             {
                 "authors": "SGRÒ, DOMENICO ; CORREIA, WILKLEY BEZERRA ; LEÃO, RUTH PASTÔRA SARAIVA ; TOFOLI, FERNANDO LESSA ; TIBÚRCIO, SILAS ALYSSON SOUZA.",
                 "title": "Nonlinear current control strategy for grid-connected voltage source converters.",
                 "link": "https://www.sciencedirect.com/science/article/abs/pii/S0142061522003684?via%3Dihub",
-                "location": "In: INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS, v. 142, p. 108349-10, 2022.",
+                "location": "Em: INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS, v. 142, p. 108349-10, 2022.",
                 "year": 2022
             },
             {
                 "authors": "LIMA, THIAGO ALVES ; MADEIRA, DIEGO DE S. ; VIANA, VALESSA V. ; OLIVEIRA, RICARDO C.L.F..",
                 "title": "Static output feedback stabilization of uncertain rational nonlinear systems with input saturation.",
                 "link": "https://www.sciencedirect.com/science/article/abs/pii/S0167691122001402?via%3Dihub",
-                "location": "In: SYSTEMS & CONTROL LETTERS, v. 168, p. 105359, 2022.",
+                "location": "Em: SYSTEMS & CONTROL LETTERS, v. 168, p. 105359, 2022.",
                 "year": 2022
             },
             {
                 "authors": "DAMASCENO, D. P. ; RIOS, C. S. N. ; BARBOSA, S. G. ; CORREIA, W. B. ; OLIVEIRA JR., D. S. .",
                 "title": "Comparação entre controle centralizado e descentralizado orientada a um conversor CC-CC de três portas aplicado em geração fotovoltaica.",
                 "link": "https://www.sba.org.br/cba2022/wp-content/uploads/artigos_cba2022/paper_8670.pdf",
-                "location": "In: Congresso Brasileiro de Automática, 2022, Fortaleza-CE. Anais do CBA 2022, 2022.",
+                "location": "Em: Congresso Brasileiro de Automática, 2022, Fortaleza-CE. Anais do CBA 2022, 2022.",
                 "year": 2022
             },
             {
                 "authors": "MADEIRA, DIEGO DE S., ALVES LIMA, THIAGO .",
                 "title": "Global Stabilization of Polynomial Systems Using Equilibrium-Independent Dissipativity.",
                 "link": "https://ieeexplore.ieee.org/document/9867591",
-                "location": "In: 2022 American Control Conference (ACC), 2022, Atlanta. 2022 American Control Conference (ACC), 2022. p. 120.",
+                "location": "Em: 2022 American Control Conference (ACC), 2022, Atlanta. 2022 American Control Conference (ACC), 2022. p. 120.",
                 "year": 2022
             },
             {
                 "authors": "MADEIRA, DIEGO DE S..",
                 "title": "Necessary and Sufficient Dissipativity-Based Conditions for Feedback Stabilization.",
                 "link": "https://ieeexplore.ieee.org/document/9410355",
-                "location": "In: IEEE TRANSACTIONS ON AUTOMATIC CONTROL, v. 67, p. 1-1, 2021.",
+                "location": "Em: IEEE TRANSACTIONS ON AUTOMATIC CONTROL, v. 67, p. 1-1, 2021.",
                 "year": 2021
             },
             {
                 "authors": "MILFONT, LEONARDO DUARTE ; DE OLIVEIRA, SAMUEL ANTONIO M. ; B, RUBEM JOSE N. ; TALEIRES FILHO, JUCELINO ; DE ARAUJO HONORIO, DALTON ; BEZERRA CORREIA, WILKLEY .",
                 "title": "DSC-based Generalized Predictive Control Algorithm for an Indirect Field-Oriented Induction Motor Drive by using FIR filters Approach.",
                 "link": "https://ieeexplore.ieee.org/document/9529463",
-                "location": "In: 2021 14th IEEE International Conference on Industry Applications (INDUSCON), 2021, São Paulo. 2021 14th IEEE International Conference on Industry Applications (INDUSCON), 2021. p. 1309.",
+                "location": "Em: 2021 14th IEEE International Conference on Industry Applications (INDUSCON), 2021, São Paulo. 2021 14th IEEE International Conference on Industry Applications (INDUSCON), 2021. p. 1309.",
                 "year": 2021
             },
             {
                 "authors": "VIANA, VALESSA V. ; MADEIRA, DIEGO DE S. ; LIMA, THIAGO ALVES .",
                 "title": "Dissipativity-based ℒ2 gain-scheduled static output feedback design for rational LPV systems",
                 "link": "https://ieeexplore.ieee.org/document/9867554/",
-                "location": "In: 2022 American Control Conference (ACC), 2022, Atlanta. 2022 American Control Conference (ACC), 2022. p. 5199.",
+                "location": "Em: 2022 American Control Conference (ACC), 2022, Atlanta. 2022 American Control Conference (ACC), 2022. p. 5199.",
                 "year": 2022
             },
             {
                 "authors": "PAIVA, DAVI ALEXANDRE ; DE SOUSA VASCONCELOS, FELIPE JOSÉ ; DE AMORIM GASPAR FILGUEIRAS, IURY ; BEZERRA CORREIA, WILKLEY .",
                 "title": "A simple procedure for modeling and identification of a test bench 4-DOF manipulator.",
                 "link": "https://www.sba.org.br/open_journal_systems/index.php/cba/article/view/1050",
-                "location": "In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020.",
+                "location": "Em: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020.",
                 "year": 2020
             }
         ]
@@ -262,7 +290,7 @@ var pt = {
             "level": "Professor",
             "course": "Engenharia Elétrica",
             "email": "wilkley@dee.ufc.br",
-            "linkedin": "#",
+            "linkedin": "https://www.linkedin.com/in/wilkley-correia-3a630a164/",
             "github": "#"
         },
         {
@@ -292,7 +320,7 @@ var pt = {
             "level": "Graduando",
             "course": "Engenharia Elétrica",
             "email": "emaildeauro@gmail.com",
-            "linkedin": "https://www.linkedin.com/in//",
+            "linkedin": "https://www.linkedin.com/in/auro-gabriel/",
             "github": "https://www.github.com//"
         },
         {
@@ -325,5 +353,33 @@ var pt = {
             "linkedin": "https://www.linkedin.com/in/julio-schneiders-109a05296/",
             "github": "https://github.com/Schneidersnzz"
         }
-    ]
+    ],
+
+    "contact": {
+        "title": "Contato",
+        "last_update": "Última atualização em 16 de Novembro, 2023",
+        "mailing_address": {
+            "title": "Caixa Postal",
+            "responsable": "Professor Wilkley Correia",
+            "place": "Bloco 732 - Pici",
+            "city": "Fortaleza - CE",
+            "cep": "60020-181"
+        },
+        "office_location": {
+            "title": "Localização",
+            "laboratory": "LAMOTRIZ - Laboratório de Sistemas Motrizes",
+            "map": "https://maps.app.goo.gl/g8GcfjWPJeDaQwibA",
+            "place": "Bloco 732 - Pici",
+            "city": "Fortaleza - CE",
+            "cep": "60020-181"
+        },
+        "office_phone": {
+            "title": "Telefone",
+            "phone": "+55 (085) 9 8172-7419"
+        },
+        "email": {
+            "title": "Email",
+            "email": "lamotriz@outlook.com"
+        }
+    }
 };
