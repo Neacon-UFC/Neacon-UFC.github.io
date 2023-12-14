@@ -26,6 +26,11 @@ var en = {
         "rights": "All Rights Reserved"
     },
 
+    "home":{
+        "title": "NEACON",
+        "introduction": "The 'Núcleo de Estudos em Automação Industrial e Controle Não-Linear' (Center for Studies in Industrial Automation and Non-Linear Control) of the Department of Electrical Engineering at the Federal University of Ceará has expertise in simulations and tests of industrial loads. The behavior is analyzed considering the application of automation and control techniques, for the operational optimization of the system or its energy efficiency."
+    },
+
     "publications":{
         "title": "Publications",
         "subtitle": "Most recent and relevant publications",
@@ -182,11 +187,11 @@ var en = {
         },
         "office_phone": {
             "title": "Office Phone",
-            "phone": "+55 (085) 9 8172-7419"
+            "phone": "+55 (085) 3366-9581"
         },
         "email": {
             "title": "Email",
-            "email": "lamotriz@outlook.com"
+            "email": "lamotriz@dee.ufc.br"
         }
     }
 };
@@ -217,6 +222,11 @@ var pt = {
     "footer": {
         "author": "Projetado por NAICON @ Universidade Federal do Ceará",
         "rights": "Todos os direitos reservados"
+    },
+
+    "home":{
+        "title": "NEACON",
+        "introduction": "O Núcleo de Estudos em Automação Industrial e Controle Não-Linear do Departamento de Engenharia Elétrica da Universidade Federal do Ceará possui expertise em simulações e testes de cargas industriais. O comportamento é analisado considerando a aplicação de técnicas de automação e controle, para a otimização operacional do sistema ou sua eficiência energética."
     },
 
     "publications":{
@@ -374,12 +384,12 @@ var pt = {
             "cep": "60020-181"
         },
         "office_phone": {
-            "title": "Telefone",
-            "phone": "+55 (085) 9 8172-7419"
+            "title": "Office Phone",
+            "phone": "+55 (085) 3366-9581"
         },
         "email": {
             "title": "Email",
-            "email": "lamotriz@outlook.com"
+            "email": "lamotriz@dee.ufc.br"
         }
     }
 };
